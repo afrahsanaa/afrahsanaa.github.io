@@ -1120,6 +1120,10 @@ ul { list-style: none; }
   .bookshelf { grid-template-columns: 1fr; max-width: 360px; }
   .book.featured { max-width: 100%; }
   .book-cover { padding: 18px; min-height: 170px; }
+  .book-modal { padding: 12px; }
+  .bm-left, .bm-right { padding: 20px 14px; }
+  .bp-meta { grid-template-columns: 1fr; }
+  .bm-close { top: 4px; right: 4px; }
 }
 
 /* ------------------------------------------
